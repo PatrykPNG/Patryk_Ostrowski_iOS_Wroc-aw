@@ -1,0 +1,8 @@
+//
+//  CartManager.swift
+//  Patryk_Ostrowski_iOS_Wrocław
+//
+//  Created by Patryk Ostrowski on 11/05/2025.
+//
+
+import Foundation
